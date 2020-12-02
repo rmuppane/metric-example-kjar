@@ -1,4 +1,3 @@
-Repository Init Content
-=======================
+This is example project to test the custom metrics.
 
-Your project description here.
+mvn clean install
